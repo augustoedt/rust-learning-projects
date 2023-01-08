@@ -1,4 +1,4 @@
-# Rust Mini-Projects for Learning
+# Rust Learning Mini-Projects
 
 ## source:
 - [freeCodeCamp Article - Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit](https://www.freecodecamp.org/news/rust-in-replit/)
